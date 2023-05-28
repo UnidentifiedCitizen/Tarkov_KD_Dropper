@@ -15,14 +15,14 @@ Before you can run Tarkov KD Dropper, you need to make sure that you have the ne
 
 If you haven't already installed these libraries, you can do so using pip, the Python package installer. Open your terminal or command prompt and type the following commands:
 
-pip install pyautogui
-pip install easyocr
+>pip install pyautogui
+>pip install easyocr
 
 Usage
 
 After you have installed the necessary libraries, you can start the script by running the python file in your terminal or command prompt:
 
-python tarkov_kd_dropper.py
+>python tarkov_kd_dropper.py
 
 Once the script is running, you can toggle the script on or off by pressing the F1 key.
 
